@@ -84,7 +84,7 @@ public class main {
 	public static void send(String to, String body) {
 
 		final String username = "thomlmath@gmail.com";
-		final String password = "d1n0saur";
+		final String password = "Password";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
