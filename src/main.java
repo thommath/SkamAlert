@@ -124,8 +124,8 @@ public class main {
 	 public static void update(String text) {
 	        String server = "f12-preview.awardspace.net";
 	        int port = 21;
-	        String user = "2063195";
-	        String pass = "d1n0saur";
+	        String user = "username";
+	        String pass = "Password";
 	 
 	        FTPClient ftpClient = new FTPClient();
 	        try {
